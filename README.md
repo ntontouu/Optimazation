@@ -2,8 +2,8 @@
 # Cuckoo Search Optimization with Lévy Flight & Adam Optimizer for the Salomon Problem
 
 [![University](https://img.shields.io/badge/University-University%20of%20Ioannina-blue.svg)](https://www.uoi.gr)
-[![Department](https://img.shields.io/badge/Department-Computer%20Science%20%26%20Telecommunications-lightgrey.svg)](https://www.cs.uoi.gr)
-[![Framework](https://img.shields.io/badge/Framework-XOPTIMUS-orange.svg)]()
+[![Department](https://img.shields.io/badge/Department-Computer%20Science%20%26%20Telecommunications-lightgrey.svg)](https://www.dit.uoi.gr/)
+[![Framework](https://img.shields.io/badge/Framework-XOPTIMUS-orange.svg)](https://github.com/itsoulos/GlobalOptimus)
 [![Language](https://img.shields.io/badge/Language-C++-blueviolet.svg)]()
 
 A robust C++ implementation of the **Cuckoo Search (CS)** metaheuristic algorithm enhanced with **Lévy Flights** and hybridized with the **Adam Optimizer**, applied to benchmark and minimize the multi-modal **Salomon Problem**. Developed as a semester project for the optimization course at the Department of Computer Science and Telecommunications, University of Ioannina.
